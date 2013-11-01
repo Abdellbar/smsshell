@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # vim: ai ts=4 sts=4 et sw=4
-# see LICENSE file (it's BSD)
+# see LICENSE file (it's GPL)
 
 #usage send ip or mac to recive the device ip or mac, send cmd:any_comande to be excuted
 
